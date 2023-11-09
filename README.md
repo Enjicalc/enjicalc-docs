@@ -104,4 +104,4 @@ The current version of Enjicalc is our Minimum Viable Product (MVP). There is st
 - Version control
   - We will record every single change that was made to your work. No more SharePoint chaos.
 - API to Sheets 
-  - Similar to Vectorisation, but now your software developer team can access your functions from external software
+  - Similar to Vectorisation, but now any software developer team can access your functions from external software
