@@ -26,7 +26,7 @@ Symbols represent the fundamental part of calculations inside Enjicalc. You can 
 
 ### Symbol & Mathematical Representation
 
-In Microsoft Excel, variables inside formulae represent cell location (AB302, T60), making the Excel formula very hard to review. In Enjicalc, we leveraged Mathematical Markup Language (MathML) to build and manipulate any formulae. Our proprietary technologies and algorithms allow users to create a low-level data structure through a user-friendly interface. This data structure is then used for valuation and displaying a formula on a screen with MathML, acting as a single source of truth. 
+In Microsoft Excel, variables inside formulae represent cell location (AB302, T60), making the Excel formula very hard to review. In Enjicalc, we leveraged subset of AsciiMath syntax to build and manipulate any formulae. Our proprietary technologies and algorithms allow users to create a low-level data structure through a user-friendly interface. This data structure is then used for valuation and displaying a formula on a screen using mathematical expressions, acting as a single source of truth. 
 
 This architecture opens up **huge time-saving possibilities** for engineers in construction. To start with, we are drastically accelerating the review of an individual formula. Try to review how BS EN 1992-1-1, Expression (7.9) was calculated:
 
@@ -71,9 +71,9 @@ After the above is done, you can find a Symbol Editor modal. Here is an overview
 
 And now, most importantly, let's discuss Formula.
 
-We aim to build an interface that makes writing a formula even more straightforward than in Microsoft Excel. With our custom Formula Editor interface, it is now possible to manipulate MathML-based variables with the help of general arithmetic operations and functions. The current list of functions can be found [here]().   
+We aim to build an interface that makes writing a formula even more straightforward than in Microsoft Excel. With our custom Formula Editor interface, it is now possible to manipulate mathematical variables with the help of general arithmetic operations and functions. The current list of functions can be found [here]().   
 
-To paste a MathML variable into a formula, please select an appropriate variable from our Selector using your mouse (see below). Once pasted, click back into the Formula Editor to continue writing. 
+To paste a mathematical variable into a formula, please select an appropriate variable from our Selector using your mouse (see below). Once pasted, click back into the Formula Editor to continue writing. 
 
 > **_NOTE:_** With current version of Formula Editor, we advice first to create empty spaces for variable `▢`, and only then paste initiated symbols.
 
