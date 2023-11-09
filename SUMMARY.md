@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Enjicalc Documentation](README.md)
+* [Quick Start](README.md)
 
 ## Group 1
 
