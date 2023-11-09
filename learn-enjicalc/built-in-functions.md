@@ -1,3 +1,23 @@
 # Built-in Functions
-
-Here is the list
+|text |
+|------|
+| abs |
+| sqrt |
+| pow |
+| exp |
+| log |
+| ln |
+| round |
+| floor |
+| ceil |
+| sin |
+| cos |
+| tan |
+| asin |
+| acos |
+| atan |
+| atan2 |
+| sum |
+| max |
+| min |
+| cnd |
