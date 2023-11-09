@@ -33,14 +33,14 @@ This architecture opens up **huge time-saving possibilities** for engineers in c
 Microsoft Excel:
 
 ``` ts
-=(C308 - B3 * (C309/B20) * (1 + T250/B * B20) ) / T250  = 0.00072
+=(C308 - B3 * (C309/B20) * (1 + T250/TH213 * B20) ) / T250  = 0.00072
 ```
 
 Enjicalc:
 
 $$
 \begin{align*}
-  (\varepsilon_{sm}-\varepsilon_{cm})=\frac{\sigma_{s,crack}-k_t \times \frac{f_{ctm}(t)}{\rho_{p,eff}} \times \left(1+\frac{E_{cm}}{E_s}\times\rho_{p,eff} \right)}{E_s}=
+  (\varepsilon_{sm}-\varepsilon_{cm})=\frac{\sigma_{s,crack}-k_t \times \frac{f_{ctm}(t)}{\rho_{p,eff}} \times \left(1+\frac{E_{s}}{E_{cm}}\times\rho_{p,eff} \right)}{E_s}=
 \end{align*}
 $$
 $$
