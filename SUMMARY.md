@@ -2,14 +2,7 @@
 
 * [Quick Start](README.md)
 
-## Group 1
+## Learn Enjicalc
 
-* [Page 1](group-1/page-1.md)
-
-***
-
-* [Page 2](page-2.md)
-
-## Group 2
-
-* [Page 3](group-2/page-3.md)
+* [MathML Symbols](learn-enjicalc/mathml-symbols.md)
+* [Built-in Functions](learn-enjicalc/built-in-functions.md)
