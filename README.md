@@ -4,6 +4,6 @@ Welcome to the Quick Start Guide for Enjicalc, your collaborative software solut
 
 ## Key App Components
 
-Enjicalc is organised into two general interfaces, your personal dashboard and workspace. Click Create New Workspace on your dashboard page. In your workspace, click Create Sheet to start your first set of calculations. You should see the following interface:
+Enjicalc is organised into two general interfaces: your personal dashboard and workspace. Click Create New Workspace on your dashboard page. In your workspace, click Create Sheet to start your first set of calculations. You should see the following interface:
 
-<img src="images/sheet-page.png" alt="isolated" width="700" align-self="centre"/>
+<figure><img src="images/sheet-page.png" alt="" width="563"><figcaption></figcaption></figure>
