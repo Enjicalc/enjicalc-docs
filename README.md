@@ -55,7 +55,7 @@ Now, let's write our first symbol.
 
 ### Symbol Editor
 
-Press the Add Section and Add Symbol buttons inside a Sheet Page (we will discuss Sections later). You can see an empty Symbol was created. Hover over the empty Symbol, and you will find the Modify Symbol button (see below).  
+Press the Add Section and Add Symbol buttons inside a Sheet Page (we will discuss Sections later). You can see a Symbol Editor was opened automatically. To access Symbol Editor after a Symbol was created, hover over the empty Symbol, and you will find the Modify Symbol button on the right-hand side (see below).   
 
 <figure><img src="images/symbol-editor-button.png" alt="" width="550"><figcaption></figcaption></figure>
 
