@@ -1,6 +1,6 @@
 # AsciiMath Symbols
 
-We are using a subset of AsciiMath syntax to define a variable name for several reasons. First, defining subscripts and superscripts is extremely easy with AsciiMath. To define a subscript or superscript, write underscore `_` for subscript or caret `^` for superscript anywhere after the symbol baseline. You can find examples below.
+We are using a subset of [AsciiMath](https://asciimath.org/) syntax to define a variable name for several reasons. First, defining subscripts and superscripts is extremely easy with AsciiMath. To define a subscript or superscript, write underscore `_` for subscript or caret `^` for superscript anywhere after the symbol baseline. You can find examples below.
 
 A\_s,xx -> $$A_{s,xx}$$
 
