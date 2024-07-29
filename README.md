@@ -55,7 +55,7 @@ Now, let's write our first Symbol.
 
 You can create your first constant by pressing the Add Symbol buttons inside a Sheet Page. Now hover over the Symbol name to change it to "myVariable." You can do the same for Symbol Value and Symbol Unit.
 
-Now, create your second variable and convert it to a formula.
+Now, let's create a second variable and convert it to a formula.
 
 To access the Symbol Editor, commets and description, press three vertical dots to open the Symbol menu, and you will find the Modify Symbol button.
 
